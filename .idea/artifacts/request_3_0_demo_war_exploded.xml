@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="request_3_0_demo:war exploded">
+    <output-path>$PROJECT_DIR$/frontend/target/request_3_0_demo-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="request_3_0_demo" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/frontend/target/request_3_0_demo-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="request_3_0_demo/web/Web" />
+    </root>
+  </artifact>
+</component>
