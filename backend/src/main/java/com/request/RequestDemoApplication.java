@@ -1,12 +1,6 @@
-package main.java.com.request;
+package com.request;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class RequestDemoApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(RequestDemoApplication.class, args);
-	}
-}
+/**
+ * Created by KEYSTONE_USER on 9/20/16.
+ */
+public class RequestDemoApplication {}
