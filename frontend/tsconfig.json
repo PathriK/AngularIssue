@@ -12,7 +12,7 @@
 		"outDir": "build"
 	},
 	"exclude": [
-		"node_modules",
+		"app/node_modules",
 		"typings/main",
 		"typings/main.d.ts"
 	]

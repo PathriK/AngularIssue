@@ -25,13 +25,13 @@
 
       // other libraries
       'rxjs':                       'npm:rxjs',
-      'angular2-in-memory-web-api': 'npm:angular2-in-memory-web-api',
+      'angular2-in-memory-web-api': 'npm:angular2-in-memory-web-api'
     },
     // packages tells the System loader how to load when no filename and/or no extension
     packages: {
       app: {
-        main: './main.js',
-        defaultExtension: 'js'
+        main: './main.ts',
+        defaultExtension: 'ts'
       },
       rxjs: {
         defaultExtension: 'js'
