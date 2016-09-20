@@ -46,7 +46,7 @@ System.config({
   },
 });
 
-System.import('../systemjs.config.js')
+System.import('systemjs.config.js')
   .then(importSystemJsExtras)
   .then(initTestBed)
   .then(initTesting);

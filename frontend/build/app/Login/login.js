@@ -23,7 +23,8 @@ var LoginComponent = (function () {
         core_1.Component({
             moduleId: module.id,
             selector: 'login',
-            templateUrl: './login.html'
+            templateUrl: './login.html',
+            styleUrls: ['../css/styles.css'],
         }), 
         __metadata('design:paramtypes', [login_service_1.LoginService])
     ], LoginComponent);

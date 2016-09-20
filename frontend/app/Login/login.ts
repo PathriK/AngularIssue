@@ -5,8 +5,8 @@ import {LoginService} from "./login.service";
 @Component({
     moduleId: module.id,
     selector: 'login',
-    templateUrl:'./login.html'
-    //styleUrls:['../css/styles.css'],
+    templateUrl:'./login.html',
+    styleUrls:['../css/styles.css'],
 
 })
 
