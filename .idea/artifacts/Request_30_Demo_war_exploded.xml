@@ -60,6 +60,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.2.RELEASE" />
           <element id="library" level="project" name="Maven: com.h2database:h2:1.4.192" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.39" />
         </element>
       </element>
       <element id="directory" name="META-INF">

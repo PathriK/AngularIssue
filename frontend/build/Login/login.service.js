@@ -12,11 +12,10 @@ var core_1 = require('@angular/core');
 var LoginService = (function () {
     function LoginService() {
     }
-    LoginService.prototype.output = function () {
-        console.log("You are in the service output class...");
+    LoginService.prototype.loginUser = function () {
     };
     LoginService = __decorate([
-        core_1.Injectable, 
+        core_1.Injectable(), 
         __metadata('design:paramtypes', [])
     ], LoginService);
     return LoginService;

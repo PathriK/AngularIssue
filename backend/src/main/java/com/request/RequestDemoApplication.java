@@ -1,6 +1,12 @@
 package com.request;
 
-/**
- * Created by KEYSTONE_USER on 9/20/16.
- */
-public class RequestDemoApplication {}
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RequestDemoApplication {
+	
+	public static void main(String[] args) {
+		SpringApplication.run(RequestDemoApplication.class, args);
+	}
+}

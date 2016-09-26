@@ -5,20 +5,18 @@ import {LoginService} from "./login.service";
 @Component({
     moduleId: module.id,
     selector: 'login',
-    templateUrl:'./login.html',
-    styleUrls:['../css/styles.css'],
-
+    templateUrl:'./login.html'
 })
 
 export class LoginComponent{
 
     login:LoginModel = new LoginModel();
 
-    constructor(private loginService:LoginService){
+    constructor(public loginService:LoginService){
 
     }
 
     onSubmit() {
-        this.loginService.output();
+
     }
 }

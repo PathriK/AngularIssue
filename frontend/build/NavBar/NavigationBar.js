@@ -8,25 +8,18 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var core_1 = require('@angular/core');
-var login_model_1 = require("./login.model");
-var login_service_1 = require("./login.service");
-var LoginComponent = (function () {
-    function LoginComponent(loginService) {
-        this.loginService = loginService;
-        this.login = new login_model_1.LoginModel();
+var core_1 = require("@angular/core");
+var NavigationBar = (function () {
+    function NavigationBar() {
     }
-    LoginComponent.prototype.onSubmit = function () {
-    };
-    LoginComponent = __decorate([
+    NavigationBar = __decorate([
         core_1.Component({
-            moduleId: module.id,
-            selector: 'login',
-            templateUrl: './login.html'
+            selector: 'nav-bar',
+            templateUrl: './navigationBar'
         }), 
-        __metadata('design:paramtypes', [login_service_1.LoginService])
-    ], LoginComponent);
-    return LoginComponent;
+        __metadata('design:paramtypes', [])
+    ], NavigationBar);
+    return NavigationBar;
 }());
-exports.LoginComponent = LoginComponent;
-//# sourceMappingURL=login.js.map
+exports.NavigationBar = NavigationBar;
+//# sourceMappingURL=NavigationBar.js.map
