@@ -9,14 +9,26 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
+var http_1 = require('@angular/http');
 var LoginService = (function () {
-    function LoginService() {
+    function LoginService(http) {
+        this.http = http;
     }
-    LoginService.prototype.loginUser = function () {
+    LoginService.prototype.login = function (user) {
+        var url = 'http://localhost:8080/user/login';
+        var header = new http_1.Headers({ 'Content-Type': 'application/json' });
+        console.log(user.userName);
+        console.log(user.password);
+        return this.http.post(url, JSON.stringify(user), { headers: header });
+    };
+    LoginService.prototype.logout = function () {
+        localStorage.setItem("token", "");
+        localStorage.setItem("currentUserName", "");
+        alert("You have been logged out.");
     };
     LoginService = __decorate([
         core_1.Injectable(), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [http_1.Http])
     ], LoginService);
     return LoginService;
 }());

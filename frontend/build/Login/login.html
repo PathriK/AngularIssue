@@ -1,12 +1,12 @@
 <div>
 	<h2 class="center-block"><strong>Login</strong></h2>
 	
-	<form (submit)="onSubmit()" class="form-horizontal">
+	<form (submit)="onSubmit(user)" class="form-horizontal">
 		
 		<div class="form-group">
 			<label class="col-sm-2 control-label">User Name:</label>
 			<div class="col-sm-10">
-				<input type="text" name="firstName" [(ngModel)]="login.userName" placeholder="User Name" required="required">
+				<input type="text" name="firstName" [(ngModel)]="user.userName" placeholder="User Name" required="required">
 			</div>
 		</div>
 		
@@ -14,7 +14,7 @@
 			<label class="col-sm-2 control-label">Password:</label>
 			
 			<div class="col-sm-10">
-				<input type="password" name="lastName" [(ngModel)]="login.password" placeholder="password" required="required">
+				<input type="password" name="lastName" [(ngModel)]="user.password" placeholder="Password" required="required">
 			</div>
 		</div>
 		
@@ -25,5 +25,11 @@
 		</div>
 	
 	</form>
-
+	
+	<!--<div [hidden]="!loginService.checkLogin()">-->
+		<!--<h3>Logged In Successfully!</h3>-->
+		<!--<h2>Welcome back, {{currentUserName}}</h2>-->
+	<!--</div>-->
 </div>
+
+<router-outlet></router-outlet>

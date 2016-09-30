@@ -1,4 +1,4 @@
-package com.request.Configuration;
+package com.request.configuration;
 
 /**
  * Created by KEYSTONE_USER on 9/26/16.

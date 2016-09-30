@@ -8,15 +8,16 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var core_1 = require('@angular/core');
-var login_model_1 = require("./login.model");
+var core_1 = require("@angular/core");
 var login_service_1 = require("./login.service");
+var User_1 = require("../Model/User");
 var LoginComponent = (function () {
     function LoginComponent(loginService) {
         this.loginService = loginService;
-        this.login = new login_model_1.LoginModel();
+        this.user = new User_1.User();
     }
     LoginComponent.prototype.onSubmit = function () {
+        this.loginService.login(this.user);
     };
     LoginComponent = __decorate([
         core_1.Component({

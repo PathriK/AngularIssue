@@ -23,14 +23,14 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="backend" />
-        <module name="request_3_0_demo" />
+        <module name="Request_30_Demo" />
       </profile>
-      <profile default="false" name="Annotation profile for frontend" enabled="true">
-        <sourceOutputDir name="frontend/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="frontend/target/generated-test-sources/test-annotations" />
+      <profile default="false" name="Annotation profile for Request_3.0_Demo" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Request_30_Demo" />
+        <module name="request_3_0_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

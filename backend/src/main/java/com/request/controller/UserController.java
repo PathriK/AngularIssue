@@ -17,11 +17,8 @@ import com.request.service.UserService;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
-/**
- * Created by KEYSTONE_USER on 9/20/16.
- */
 @RestController("/user")
-public class LoginController {
+public class UserController {
 	
 	@Autowired
 	UserService userService;
@@ -49,6 +46,13 @@ public class LoginController {
 		}
 		
 		return Jwts.builder().setSubject(userName).claim("roles", "user").setIssuedAt(new Date()).signWith(SignatureAlgorithm.HS256, "secretkey").compact();
+	}
+	
+	@RequestMapping(value = "/register", method = RequestMethod.POST)
+	public User registerUser(@RequestBody User user){
+		
+		System.out.println("YAY-----------"+user.getFirstName());
+		return userService.save(user);
 	}
 	
 	

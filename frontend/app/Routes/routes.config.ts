@@ -1,14 +1,20 @@
 import {Routes} from "@angular/router";
 import {ModuleWithProviders} from "@angular/core";
-import { Routes, RouterModule } from '@angular/router';
+import {Routes, RouterModule } from '@angular/router';
 import {LoginComponent} from "../Login/login";
+import {HomeComponent} from "../Home/home";
+import {Error404Page} from "../Error404/Error404Page";
+import {RegisterComponent} from "../register/register";
 
 const appRoutes: Routes = [
-    {path:'/build/Login/login', name: 'Login', component: LoginComponent, useAsDefault: true},
-    // {path: '/register', name:'Register', component: Register}
+
+    {path:'', redirectTo:'home',  pathMatch: 'full'},
+    {path:'home', component: HomeComponent },
+    {path:'login', component: LoginComponent},
+    {path:'register', component: RegisterComponent}
 ];
 
-export const appRoutingConfig: any = [
+export const appRoutingProviders: any = [
 
 ];
 

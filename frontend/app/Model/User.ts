@@ -1,3 +1,10 @@
-/**
- * Created by KEYSTONE_USER on 9/26/16.
- */
+
+
+export class User{
+    public userId: number;
+    public firstName: string;
+    public lastName: string;
+    public userName: string;
+    public password: string;
+    public created: Date;
+}

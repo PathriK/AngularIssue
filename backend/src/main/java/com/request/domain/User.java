@@ -1,22 +1,31 @@
 package com.request.domain;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.validation.constraints.Max;
+import javax.validation.constraints.Min;
+import javax.validation.constraints.NotNull;
 
-/**
- * Created by KEYSTONE_USER on 9/19/16.
- */
+import org.springframework.beans.factory.annotation.Required;
+
 @Entity
-public class Applicant {
+public class User {
 	
 	@Id
 	@GeneratedValue(strategy= GenerationType.AUTO)
 	private Long userId;
+	@Column(name = "firstName")
+	@Min(2) @Max(15)
+	@NotNull
 	private String firstName;
+	@Column(name = "lastName")
 	private String lastName;
+	@Column(name = "userName")
 	private String userName;
+	@Column(name = "password")
 	private String password;
 	
 	public String getFirstName() {

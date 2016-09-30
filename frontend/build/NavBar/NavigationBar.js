@@ -9,15 +9,19 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require("@angular/core");
+var login_service_1 = require("../Login/login.service");
+var registerService_1 = require("../register/registerService");
 var NavigationBar = (function () {
-    function NavigationBar() {
+    function NavigationBar(loginService, registerService) {
+        this.loginService = loginService;
     }
     NavigationBar = __decorate([
         core_1.Component({
+            moduleId: module.id,
             selector: 'nav-bar',
-            templateUrl: './navigationBar'
+            templateUrl: './navigationBar.html'
         }), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [login_service_1.LoginService, registerService_1.RegisterService])
     ], NavigationBar);
     return NavigationBar;
 }());

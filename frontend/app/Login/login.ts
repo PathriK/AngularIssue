@@ -1,22 +1,23 @@
-import {Component} from '@angular/core';
-import {LoginModel} from "./login.model";
+import {Component} from "@angular/core";
 import {LoginService} from "./login.service";
+import {User} from "../Model/User";
 
 @Component({
     moduleId: module.id,
     selector: 'login',
-    templateUrl:'./login.html'
+    templateUrl: './login.html'
 })
 
-export class LoginComponent{
+export class LoginComponent {
 
-    login:LoginModel = new LoginModel();
+    user: User = new User();
 
-    constructor(public loginService:LoginService){
+    constructor(public loginService: LoginService) {
 
     }
 
     onSubmit() {
-
+        this.loginService.login(this.user);
     }
+
 }

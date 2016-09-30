@@ -1,4 +1,4 @@
-package com.request.Configuration;
+package com.request.configuration;
 
 import java.io.IOException;
 import javax.servlet.FilterChain;

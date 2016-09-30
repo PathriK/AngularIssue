@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="request_3_0_demo:war">
-    <output-path>$PROJECT_DIR$/frontend/target</output-path>
+    <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="request_3_0_demo-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="request_3_0_demo:war exploded" />
     </root>
