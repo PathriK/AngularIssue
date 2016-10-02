@@ -16,8 +16,8 @@ var RegisterService = (function () {
     }
     RegisterService.prototype.sendUser = function (newUser) {
         var url = "http://localhost:8080/user/register";
-        // let header = new Headers({'Content-Type': 'application/json'});
-        return this.http.post(url, JSON.stringify(newUser)); //, {headers: header}
+        var header = new http_1.Headers({ 'Content-Type': 'application/json' });
+        return this.http.post(url, JSON.stringify(newUser), { headers: header });
     };
     RegisterService = __decorate([
         core_1.Injectable(), 

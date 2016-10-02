@@ -10,8 +10,8 @@ export class RegisterService {
 
     sendUser (newUser: RegisterModel) {
         let url = "http://localhost:8080/user/register";
-       // let header = new Headers({'Content-Type': 'application/json'});
+        let header = new Headers({'Content-Type': 'application/json'});
 
-        return this.http.post(url, JSON.stringify(newUser)); //, {headers: header}
+        return this.http.post(url, JSON.stringify(newUser),{headers: header});
     }
 }
