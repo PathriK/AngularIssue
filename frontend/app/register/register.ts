@@ -1,4 +1,3 @@
-import {User} from "../Model/User";
 import {RegisterService} from "./registerService";
 import {Component} from "@angular/core";
 import {RegisterModel} from "./registerModel";
@@ -19,8 +18,8 @@ export class RegisterComponent {
     onSubmit() {
         this.registerService.sendUser(this.newUser).subscribe(
             data => {
-
                 this.newUser = new RegisterModel();
+                console.log("New user was created.")
             },
             error => console.log(error)
         );

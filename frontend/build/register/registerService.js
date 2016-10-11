@@ -15,7 +15,7 @@ var RegisterService = (function () {
         this.http = http;
     }
     RegisterService.prototype.sendUser = function (newUser) {
-        var url = "http://localhost:8080/user/register";
+        var url = "http://localhost:4000/user/register";
         var header = new http_1.Headers({ 'Content-Type': 'application/json' });
         return this.http.post(url, JSON.stringify(newUser), { headers: header });
     };

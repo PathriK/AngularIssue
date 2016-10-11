@@ -15,13 +15,14 @@ var LoginService = (function () {
         this.http = http;
     }
     LoginService.prototype.login = function (user) {
-        var url = 'http://localhost:4000/user/login';
+        var url = 'http://localhost:8080/user/login';
         var header = new http_1.Headers({ 'Content-Type': 'application/json' });
         console.log(user.userName);
         console.log(user.password);
         return this.http.post(url, JSON.stringify(user), { headers: header });
     };
     LoginService.prototype.logout = function () {
+        localStorage.setItem("token", "");
         localStorage.setItem("currentUserName", "");
         alert("You have been logged out.");
     };

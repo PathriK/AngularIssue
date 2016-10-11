@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.request.domain.User;
 import com.request.service.UserService;
 
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
-
 @RestController("/user")
 public class UserController {
 	
@@ -45,7 +42,7 @@ public class UserController {
 			throw new ServletException("Invalid login, Please check your username and password.");
 		}
 		
-		return Jwts.builder().setSubject(userName).claim("roles", "user").setIssuedAt(new Date()).signWith(SignatureAlgorithm.HS256, "secretkey").compact();
+		return null;
 	}
 	
 	@RequestMapping(value = "/register", method = RequestMethod.POST)
@@ -54,7 +51,5 @@ public class UserController {
 		System.out.println("YAY-----------"+user.getFirstName());
 		return userService.save(user);
 	}
-	
-	
 	
 }

@@ -20,6 +20,7 @@ var RegisterComponent = (function () {
         var _this = this;
         this.registerService.sendUser(this.newUser).subscribe(function (data) {
             _this.newUser = new registerModel_1.RegisterModel();
+            console.log("New user was created.");
         }, function (error) { return console.log(error); });
     };
     RegisterComponent = __decorate([

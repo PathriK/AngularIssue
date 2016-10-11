@@ -25,13 +25,6 @@
         <module name="backend" />
         <module name="Request_30_Demo" />
       </profile>
-      <profile default="false" name="Annotation profile for Request_3.0_Demo" enabled="true">
-        <sourceOutputDir name="../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="request_3_0_demo" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="backend" target="1.8" />

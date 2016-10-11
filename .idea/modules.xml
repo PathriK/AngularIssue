@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/Request_30_Demo.iml" filepath="$PROJECT_DIR$/Request_30_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/frontend/request_3_0_demo.iml" filepath="$PROJECT_DIR$/frontend/request_3_0_demo.iml" />
     </modules>
   </component>
 </project>
