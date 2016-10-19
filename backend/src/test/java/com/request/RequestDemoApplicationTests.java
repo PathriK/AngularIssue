@@ -1,4 +1,4 @@
-package test.java.com.request;
+package com.request;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

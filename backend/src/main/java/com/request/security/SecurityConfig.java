@@ -16,6 +16,9 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		http.authorizeRequests().antMatchers("/user/register")
 			.permitAll().anyRequest().anonymous();
 		
+		http.authorizeRequests().antMatchers("/user/login")
+			.permitAll().anyRequest().anonymous();
+		
 		http.authorizeRequests().antMatchers("/")
 			.permitAll().anyRequest().authenticated();
 		

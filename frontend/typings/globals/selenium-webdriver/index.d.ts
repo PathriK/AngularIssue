@@ -441,7 +441,7 @@ declare namespace firefox {
     }
 
     /**
-     * configuration options for the FirefoxDriver.
+     * Configuration options for the FirefoxDriver.
      */
     class Options {
         /**
