@@ -1,0 +1,58 @@
+
+<div class="container container-fluid col-md-4 col-md-offset-4 ">
+	
+	<h2 class="center"><strong>Login</strong></h2>
+	
+	<form (submit)="onSubmit(newUser)" class="form-horizontal">
+		
+		<div class="form-group">
+			<label class="col-sm-2 control-label">First Name:</label>
+			
+			<div class="col-sm-10">
+				<input type="text" name="FirstName" [(ngModel)]="newUser.firstName" placeholder="First Name" required="required">
+			</div>
+		</div>
+		
+		<div class="form-group">
+			<label class="col-sm-2 control-label">Last Name:</label>
+			
+			<div class="col-sm-10">
+				<input type="text" name="lastName" [(ngModel)]="newUser.lastName" placeholder="Last Name" required="required">
+			</div>
+		</div>
+		
+		<div class="form-group">
+			<label class="col-sm-2 control-label">User Name:</label>
+			<div class="col-sm-10">
+				<input type="text" name="userName" [(ngModel)]="newUser.userName" placeholder="User Name" required="required">
+			</div>
+		</div>
+		
+		<div class="form-group">
+			<label class="col-sm-2 control-label">Password:</label>
+			
+			<div class="col-sm-10">
+				<input type="password" name="password" [(ngModel)]="newUser.password" placeholder="Password" required="required">
+			</div>
+		</div>
+		
+		<div class="form-group">
+			<label class="col-sm-2 control-label">Confirm Password:</label>
+			
+			<div class="col-sm-10">
+				<input type="password" name="password" [(ngModel)]="newUser.passwordCheck" placeholder=" Retype Password" required="required">
+			</div>
+		</div>
+		
+		
+		<div class="form-group">
+			<div class="col-sm-offset-2 col-sm-10">
+				<button type="submit" class="btn btn-info">Submit</button>
+			</div>
+		</div>
+	
+	</form>
+	
+</div>
+
+<router-outlet></router-outlet>
