@@ -20,11 +20,11 @@ import {RouterModule} from "@angular/router";
     ]
 })
 
-export class SmartadminModule {
+export class SmartAdminModule {
 
     static forRoot():ModuleWithProviders {
         return {
-            ngModule: SmartadminModule,
+            ngModule: SmartAdminModule,
             providers: []
         };
     }

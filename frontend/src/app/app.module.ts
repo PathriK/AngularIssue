@@ -1,10 +1,11 @@
 
 import {AppComponent} from "./app.component";
-import {BrowserModule} from "@angular/platform-browser";
 import {routing} from './app.routing';
-import {NgModule} from "@angular/core";
 import {UserModule} from "./user/UserModule";
-import {SmartadminModule} from "./shared/smartadmin.module";
+import {SmartAdminModule} from "./shared/smartadmin.module";
+import {NgModule} from "@angular/core";
+import {BrowserModule} from "@angular/platform-browser";
+import {HomeComponent} from "./Home/home";
 
 
 @NgModule({
@@ -14,12 +15,13 @@ import {SmartadminModule} from "./shared/smartadmin.module";
 
         routing,
 
-        SmartadminModule.forRoot(),
+        SmartAdminModule.forRoot(),
         UserModule.forRoot()
     ],
 
     declarations: [
         AppComponent,
+        HomeComponent
     ],
 
     providers:[],
