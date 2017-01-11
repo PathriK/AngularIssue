@@ -10,6 +10,9 @@ import {SmartAdminModule} from "../../shared/smartadmin.module";
     imports: [
         LoginComponent,
         SmartAdminModule
+    ],
+    exports: [
+        LoginComponent
     ]
 
 })

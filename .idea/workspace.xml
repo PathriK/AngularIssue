@@ -2,332 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb9ec79-70aa-40c9-9cba-a7b4c2a252ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/app/Home/home.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/walker.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/walker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/importSpacingRule.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/importSpacingRule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/typeofCompareRule.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/typeofCompareRule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/unifiedSignaturesRule.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/unifiedSignaturesRule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/jenkins.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.string.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/netci.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/test.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/src/app/Home/home.model.ts" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/index.html" afterPath="$PROJECT_DIR$/frontend/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/bundles/common-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/bundles/common-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/bundles/common.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/bundles/common.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/bundles/common.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/bundles/common.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_class.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_class.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_class.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_class.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_class.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_class.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_for.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_for.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_for.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/directives/ng_for.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/common/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/bundles/compiler-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/bundles/compiler-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/bundles/compiler.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/bundles/compiler.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/bundles/compiler.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/bundles/compiler.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/directive_wrapper_compiler.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/directive_wrapper_compiler.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/expression_parser/lexer.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/expression_parser/lexer.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/expression_parser/lexer.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/expression_parser/lexer.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/output/output_ast.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/output/output_ast.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/output/output_ast.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/output/output_ast.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/selector.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/selector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/selector.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/selector.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/template_parser/template_parser.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/url_resolver.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/url_resolver.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/url_resolver.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/url_resolver.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_element.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_query.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/compile_view.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/event_binder.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/event_binder.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_binder.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_binder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_binder.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_binder.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_builder.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_builder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_builder.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/src/view_compiler/view_builder.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/testing/private_import_core.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/testing/private_import_core.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/testing/private_import_core.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/compiler/testing/private_import_core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/bundles/core-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/bundles/core-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/bundles/core.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/bundles/core.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/bundles/core.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/bundles/core.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_module.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_ref.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_ref.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_ref.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/application_ref.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/core_private_export.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/core_private_export.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/core_private_export.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/core_private_export.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/di.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/di.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/di.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/di.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/di.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/di.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/profile/profile.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/profile/profile.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/profile/profile.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/profile/profile.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/profile/profile.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/profile/profile.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/reflection/reflection_capabilities.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/reflection/reflection_capabilities.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/reflection/reflection_capabilities.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/reflection/reflection_capabilities.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/type.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/private_export_testing.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/private_export_testing.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/private_export_testing.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/private_export_testing.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/test_bed.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/test_bed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/test_bed.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/test_bed.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/testing.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/testing.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/testing.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/core/testing/testing.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/bundles/forms.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/bundles/forms.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/bundles/forms.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/bundles/forms.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/validators.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/validators.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/validators.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/validators.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/validators.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/validators.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/forms/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/bundles/http-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/bundles/http-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/bundles/http.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/bundles/http.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/bundles/http.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/bundles/http.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/testing/mock_backend.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/testing/mock_backend.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/testing/mock_backend.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/testing/mock_backend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/http/testing/mock_backend.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/http/testing/mock_backend.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_export.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_export.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_export.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_export.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_import_platform-browser.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_import_platform-browser.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_import_platform-browser.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/private_import_platform-browser.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/dom_test_component_renderer.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/dom_test_component_renderer.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_export_testing.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_export_testing.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_export_testing.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_export_testing.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser-dynamic.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser-dynamic.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser-dynamic.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser-dynamic.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser-dynamic/testing/private_import_platform-browser.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/bundles/platform-browser-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/bundles/platform-browser.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/bundles/platform-browser.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/bundles/platform-browser.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/bundles/platform-browser.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/dom_renderer.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/dom_renderer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/dom_renderer.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/dom_renderer.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/dom_renderer.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/dom_renderer.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_driver.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_driver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_driver.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_driver.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_player.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_player.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_player.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/dom/web_animations_player.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_export.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_export.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_export.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_export.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_import_core.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_import_core.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_import_core.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/private_import_core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/browser_util.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/private_import_platform-browser.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/private_import_platform-browser.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/private_import_platform-browser.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/platform-browser/testing/private_import_platform-browser.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router-testing.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router-testing.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router-upgrade.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router-upgrade.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router-upgrade.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router-upgrade.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router.umd.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router.umd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router.umd.min.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/bundles/router.umd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/apply_redirects.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/apply_redirects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/apply_redirects.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/apply_redirects.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/create_url_tree.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/create_url_tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/create_url_tree.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/create_url_tree.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/directives/router_link.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/directives/router_link.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/directives/router_link.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/directives/router_link.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/directives/router_link.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/directives/router_link.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/router_state.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/router_state.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/router_state.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/router_state.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/router_state.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/router_state.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/version.js" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/version.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/version.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/version.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/version.metadata.json" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/src/version.metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/testing/private_import_router.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/testing/private_import_router.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/@angular/router/testing/private_import_router.js.map" afterPath="$PROJECT_DIR$/frontend/node_modules/@angular/router/testing/private_import_router.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/CHANGELOG.md" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/README.md" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configs/latest.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configs/latest.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configs/latest.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configs/latest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configs/recommended.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configs/recommended.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configuration.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configuration.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configuration.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/configuration.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/enableDisableRules.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/enableDisableRules.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/checkstyleFormatter.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/checkstyleFormatter.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/checkstyleFormatter.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/checkstyleFormatter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/msbuildFormatter.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/msbuildFormatter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/vsoFormatter.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/vsoFormatter.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/vsoFormatter.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/formatters/vsoFormatter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/languageServiceHost.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/languageServiceHost.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/rule/abstractRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/rule/abstractRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/rule/abstractRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/rule/abstractRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/rule/rule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/rule/rule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/utils.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/utils.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/utils.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/index.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/ruleWalker.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/ruleWalker.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/ruleWalker.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/ruleWalker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/linter.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/linter.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/linter.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/linter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/arrayTypeRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/arrayTypeRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/arrayTypeRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/arrayTypeRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/arrowParensRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/arrowParensRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/banRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/banRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/banRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/banRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/callableTypesRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/callableTypesRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/completedDocsRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/completedDocsRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/curlyRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/curlyRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/cyclomaticComplexityRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/cyclomaticComplexityRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/eoflineRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/eoflineRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/fileHeaderRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/fileHeaderRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/fileHeaderRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/fileHeaderRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/importBlacklistRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/importBlacklistRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/linebreakStyleRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/linebreakStyleRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxClassesPerFileRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxClassesPerFileRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxClassesPerFileRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxClassesPerFileRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxFileLineCountRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxFileLineCountRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxLineLengthRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/maxLineLengthRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/memberAccessRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/memberAccessRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/memberAccessRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/memberAccessRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/memberOrderingRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/memberOrderingRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noEmptyRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noEmptyRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noInferrableTypesRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noInferrableTypesRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noMagicNumbersRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noMagicNumbersRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noMergeableNamespaceRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noMergeableNamespaceRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noStringThrowRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noStringThrowRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noStringThrowRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noStringThrowRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noUnsafeFinallyRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noUnsafeFinallyRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noUnusedExpressionRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noUnusedExpressionRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noUnusedVariableRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noUnusedVariableRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noVarKeywordRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/noVarKeywordRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/objectLiteralShorthandRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/objectLiteralShorthandRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/objectLiteralShorthandRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/objectLiteralShorthandRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/oneLineRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/oneLineRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/orderedImportsRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/orderedImportsRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/preferConstRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/preferConstRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/preferForOfRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/preferForOfRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/quotemarkRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/quotemarkRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/restrictPlusOperandsRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/restrictPlusOperandsRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/semicolonRule.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/semicolonRule.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/semicolonRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/semicolonRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/trailingCommaRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/trailingCommaRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/typedefRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/typedefRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/typedefWhitespaceRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/typedefWhitespaceRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/variableNameRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/variableNameRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/whitespaceRule.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/rules/whitespaceRule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/runner.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/runner.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test/lines.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test/lines.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test/lines.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test/lines.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test/parse.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/test/parse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/tslint-cli.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/tslint-cli.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/updateNotifier.js" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/updateNotifier.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/utils.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/lib/utils.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/tslint/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/tslint/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/.mailmap" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/.mailmap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/AUTHORS.md" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/AUTHORS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/Gulpfile.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/Gulpfile.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/README.md" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.dom.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.dom.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.dom.iterable.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.collection.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.collection.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.core.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.core.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.generator.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.iterable.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.promise.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.proxy.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.reflect.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.symbol.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2016.array.include.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2016.array.include.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2016.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2016.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.object.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.object.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es5.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es5.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es6.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es6.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.scripthost.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.scripthost.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.webworker.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.webworker.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/protocol.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/protocol.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsc.js" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsc.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsserver.js" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsserver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsserverlibrary.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsserverlibrary.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsserverlibrary.js" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/tsserverlibrary.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescript.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescript.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescript.js" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescriptServices.d.ts" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescriptServices.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescriptServices.js" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typescriptServices.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typingsInstaller.js" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/lib/typingsInstaller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/typescript/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/typescript/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/wallaby-webpack/index.js" afterPath="$PROJECT_DIR$/frontend/node_modules/wallaby-webpack/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/node_modules/wallaby-webpack/package.json" afterPath="$PROJECT_DIR$/frontend/node_modules/wallaby-webpack/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/package.json" afterPath="$PROJECT_DIR$/frontend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/NavBar/navBar.module.ts" afterPath="$PROJECT_DIR$/frontend/src/app/NavBar/navBar.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/shared/smartadmin.module.ts" afterPath="$PROJECT_DIR$/frontend/src/app/shared/smartadmin.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/user/UserModule.ts" afterPath="$PROJECT_DIR$/frontend/src/app/user/UserModule.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/user/register/register.ts" afterPath="$PROJECT_DIR$/frontend/src/app/user/register/register.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/index.html" afterPath="$PROJECT_DIR$/frontend/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts" afterPath="$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts" afterPath="$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts" />
     </list>
     <ignored path="Request_30_Demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -360,31 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.routing.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/app.routing.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="17" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -393,7 +50,7 @@
       <file leaf-file-name="home.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="225">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#42#81#0" expanded="true" />
@@ -412,33 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegisterModule.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="e#42#87#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavigationBar.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/NavigationBar.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="login.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -449,18 +84,30 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="435">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserModule.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RegisterModule.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#42#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserModule.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/user/UserModule.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="270">
+              <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -469,8 +116,8 @@
       <file leaf-file-name="LoginModule.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="15">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
               <folding>
                 <element signature="e#42#81#0" expanded="true" />
               </folding>
@@ -478,23 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="smartadmin.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/smartadmin.module.ts">
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/user/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#SmartAdminModule#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigationBar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/navigationBar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -513,8 +148,8 @@
       <file leaf-file-name="navBar.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/navBar.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -598,9 +233,9 @@
         <option value="$PROJECT_DIR$/frontend/src/app/Home/home.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/NavBar/navBar.module.ts" />
         <option value="$PROJECT_DIR$/frontend/src/app/user/UserModule.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/user/Login/login.ts" />
         <option value="$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts" />
         <option value="$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts" />
-        <option value="$PROJECT_DIR$/frontend/src/app/user/Login/login.ts" />
       </list>
     </option>
   </component>
@@ -614,10 +249,10 @@
     <handled-path value="$PROJECT_DIR$/frontend/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2004" />
-    <option name="y" value="29" />
-    <option name="width" value="1758" />
-    <option name="height" value="1088" />
+    <option name="x" value="2072" />
+    <option name="y" value="206" />
+    <option name="width" value="1531" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -635,7 +270,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -756,90 +390,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="register" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularIssue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AngularIssue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shared" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NavBar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularIssue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1488,7 +1075,8 @@
       <workItem from="1476710235836" duration="1418000" />
       <workItem from="1476803809440" duration="6222000" />
       <workItem from="1483725991937" duration="6359000" />
-      <workItem from="1483969528801" duration="18188000" />
+      <workItem from="1483969528801" duration="21144000" />
+      <workItem from="1484152526201" duration="2596000" />
     </task>
     <task id="LOCAL-00001" summary="added spring security">
       <created>1474315884113</created>
@@ -1508,7 +1096,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164667000" />
+    <option name="totallyTimeSpent" value="170219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1520,7 +1108,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2004" y="29" width="1758" height="1088" extended-state="0" />
+    <frame x="2072" y="206" width="1531" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1540,7 +1128,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1548,21 +1135,22 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32681867" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529859" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22306791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34411764" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26063472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28076923" sideWeight="0.50570965" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22252747" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1722,7 +1310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1742,27 +1329,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html" />
     <entry file="file://$PROJECT_DIR$/backend/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1770,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1778,7 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1786,7 +1355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1810,23 +1378,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.model.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1844,21 +1403,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/loginModule.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/loginModule.ts" />
     <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="225">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#42#81#0" expanded="true" />
@@ -1878,9 +1429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#136#164#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1888,33 +1436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#75#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/NavigationBar.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/navigationBar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1922,22 +1443,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="142" lean-forward="true" selection-start-line="42" selection-start-column="142" selection-end-line="42" selection-end-column="142" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/Home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/navBar.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1950,58 +1462,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#42#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#42#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/smartadmin.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#SmartAdminModule#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/UserModule.ts">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="255">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -2014,18 +1485,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/NavigationBar.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/navBar.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/NavBar/navigationBar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/register/RegisterModule.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#42#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/Login/LoginModule.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/user/UserModule.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
           <folding />
         </state>
       </provider>

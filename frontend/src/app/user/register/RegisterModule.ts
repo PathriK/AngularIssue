@@ -10,7 +10,8 @@ import {SmartAdminModule} from "../../shared/smartadmin.module";
     imports: [
         RegisterComponent,
         SmartAdminModule
-    ]
+    ],
+    exports: [RegisterComponent]
 
 })
 export class RegisterModule{
