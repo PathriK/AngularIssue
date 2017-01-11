@@ -8,10 +8,11 @@ import {SmartAdminModule} from "../../shared/smartadmin.module";
 @NgModule({
 
     imports: [
-        RegisterComponent,
         SmartAdminModule
     ],
-    exports: [RegisterComponent]
+    exports: [RegisterComponent],
+
+    declarations: [RegisterComponent]
 
 })
 export class RegisterModule{

@@ -17,7 +17,6 @@ import {RegisterModule} from "./register/RegisterModule";
         RegisterModule
     ],
 
-    declarations: [RegisterComponent, LoginComponent],
     exports: [RegisterComponent, LoginComponent]
 
 })

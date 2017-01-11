@@ -8,10 +8,13 @@ import {SmartAdminModule} from "../../shared/smartadmin.module";
 @NgModule({
 
     imports: [
-        LoginComponent,
         SmartAdminModule
     ],
     exports: [
+        LoginComponent
+    ],
+
+    declarations: [
         LoginComponent
     ]
 

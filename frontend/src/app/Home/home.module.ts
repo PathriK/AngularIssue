@@ -4,18 +4,23 @@
 import {NgModule} from "@angular/core";
 import {HomeComponent} from "./home";
 import {UserModule} from "../user/UserModule";
+import {NavBarModule} from "../NavBar/navBar.module";
+import {SmartAdminModule} from "../shared/smartadmin.module";
 
 @NgModule({
 
     imports:[
-        HomeComponent,
-        UserModule
+        SmartAdminModule,
+        UserModule,
+        NavBarModule
     ],
 
-    exports:[HomeComponent]
+    exports:[HomeComponent],
+
+    declarations: [HomeComponent]
 
 })
-export class HomeModule{
+export class HomeModule {
 
 
 }
