@@ -1,7 +1,6 @@
 import {RegisterService} from "./registerService";
 import {Component, Input} from "@angular/core";
 import {RegisterModel} from "./registerModel";
-import {User} from "../../Model/User";
 
 @Component ({
     selector: 'register',
