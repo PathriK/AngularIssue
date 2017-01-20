@@ -5,8 +5,6 @@
 import {NgModule} from "@angular/core";
 import {NavigationBarComponent} from "./NavigationBar";
 import {UserModule} from "../user/UserModule";
-import {HomeComponent} from "../Home/home";
-import {AppModule} from "../app.module";
 import {SmartAdminModule} from "../shared/smartadmin.module";
 
 @NgModule({

@@ -8,7 +8,7 @@ import {SmartAdminModule} from "../../shared/smartadmin.module";
 @NgModule({
 
     imports: [
-        SmartAdminModule
+        SmartAdminModule,
     ],
     exports: [RegisterComponent],
 

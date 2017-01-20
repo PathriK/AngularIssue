@@ -4,7 +4,7 @@ import {RegisterService} from "../user/register/registerService";
 
 @Component({
     selector:'nav-bar',
-    templateUrl:'./navigationBar.html'
+    templateUrl:'./navigationBar.html',
 })
 
 export class NavigationBarComponent{
