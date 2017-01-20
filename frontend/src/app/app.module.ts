@@ -7,6 +7,7 @@ import {NgModule} from "@angular/core";
 import {BrowserModule} from "@angular/platform-browser";
 import {HomeComponent} from "./Home/home";
 import {HomeModule} from "./Home/home.module";
+import {APP_BASE_HREF} from '@angular/common';
 
 
 @NgModule({
@@ -24,7 +25,7 @@ import {HomeModule} from "./Home/home.module";
         AppComponent
     ],
 
-    providers:[],
+    providers:[{provide: APP_BASE_HREF, useValue : '/' }],
 
     bootstrap: [AppComponent]
 })

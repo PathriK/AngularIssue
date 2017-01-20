@@ -19,7 +19,9 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+	  "../node_modules/zone.js/dist/zone.js"
+	  ],
       "environments": {
         "source": "environments/environment.ts",
         "dev": "environments/environment.ts",
