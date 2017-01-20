@@ -1,113 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- Navigation -->
+	<div class="container-fluid">
+		<nav-bar></nav-bar>
+		<!-- /.navbar-collapse -->
+	</div>
+	<!-- /.container -->
 
-<head>
-	
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="">
-	<meta name="author" content="">
-	
-	<base href="/">
-	
-	<title>Drew's Demo Site</title>
-	
-	<!-- Bootstrap Core CSS -->
-	<link href="/assets/bootstrap.min.css" rel="stylesheet">
-	
-	<!-- Custom Fonts -->
-	<!--<link href="/build/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
-	<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-	
-	<!-- Theme CSS -->
-	<!--<link href="/assets/grayscale.css" rel="stylesheet">-->
 
-</head>
-
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
-<nav-bar></nav-bar>
-
-<!-- Intro Header -->
-<header class="intro">
-	<div class="intro-body">
-		<div class="container content-section text-center">
-			<div class="row">
-				<div class="col-md-8 col-lg-offset-2">
-					<h1 class="brand-heading">Drew's Practice</h1>
-					<p class="intro-text">An awesome Angular 2 and Spring-Boot practice site</p>
-					<a href="#about" class="btn btn-circle page-scroll">
-						<i class="fa fa-angle-double-down animated"></i>
-					</a>
+<!-- Page Header -->
+<!-- Set your background image for this header on the line below. -->
+<header class="intro-header" style="background-image: url('assets/img/home-bg.jpg')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading">
+					<h1>Angular 2</h1>
+					<hr class="small">
+					<span class="subheading">Simple Practice Site</span>
 				</div>
 			</div>
 		</div>
 	</div>
 </header>
 
-<router-outlet></router-outlet>
-
-<!-- About Section -->
-<section id="about" class="container content-section text-center">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2">
-			<h2>About Drew</h2>
-			<p>I am just trying to figure out how to hook all this together.</p>
-			<p>Once I do, it would be great to collaborate.</p>
-		</div>
+<!-- Main Content -->
+<div class="container">
+	
+	<div *ngIf="registered">
+		<login></login>
 	</div>
-</section>
-
-<!-- Download Section -->
-<section id="download" class="content-section text-center">
-	<div class="download-section">
-		<div class="container">
-			<div class="col-lg-8 col-lg-offset-2">
-				<h2>Show some data</h2>
-				<p>Lets see some data pulled from the database</p>
-				<a [routerLink]="['/error']" routerLinkActive="active" class="btn btn-default btn-lg">Click me</a>
-			</div>
-		</div>
+	
+	<div *ngIf="!registered">
+		<register></register>
 	</div>
-</section>
+	
+</div>
 
-		
-
-<!-- Contact Section -->
-<section id="contact" class="container content-section text-center">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2">
-			<h2>Contact Drew</h2>
-			<p>Feel free to email me if I messed up or have some good advice advice</p>
-			<p><a href="mailto:drew.jocham@gmail.com">EMAIL</a>
-			</p>
-			<ul class="list-inline banner-social-buttons">
-				<li>
-					<a href="https://github.com/drewjocham/AngularIssue" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Project on Github</span></a>
-				</li>
-				<li>
-					<a href="https://plus.google.com/collections/featured" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-				</li>
-			</ul>
-		</div>
-	</div>
-</section>
-
-<!-- Map Section -->
-<div id="map"></div>
 
 <!-- Footer -->
 <footer>
-	<div class="container text-center">
-		<p>Copyright &copy; Drew Jocham 2016</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<ul class="list-inline text-center">
+					<li>
+						<a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+						</a>
+					</li>
+				</ul>
+				<p class="copyright text-muted">Copyright &copy; Drew Jocham 2016</p>
+			</div>
+		</div>
 	</div>
 </footer>
 
-<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
 
-</body>
+<!--<script src="vendor/jquery/jquery.min.js"></script>-->
 
-</html>
+<!-- Bootstrap Core JavaScript -->
+<script src="assets/js/bootstrap.min.js"></script>
+
+<!-- Contact Form JavaScript -->
+<script src="assets/js/jqBootstrapValidation.js"></script>
+<script src="assets/js/contact_me.js"></script>
+
+<!-- Theme JavaScript -->
+<script src="assets/js/clean-blog.min.js"></script>
+
+
+

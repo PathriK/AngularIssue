@@ -11,7 +11,7 @@ import {SmartAdminModule} from "../shared/smartadmin.module";
 
     imports:[
         SmartAdminModule,
-        UserModule,
+        UserModule
     ],
 
     declarations: [NavigationBarComponent],
