@@ -1,8 +1,11 @@
 
 <div>
-	<h2 class="center-block"><strong>Login</strong></h2>
+	<h2 class="text-center"><strong>Login</strong></h2>
+</div>
+
+<div class="container container-fluid col-md-4 col-md-offset-4 text-center">
 	
-	<form (submit)="onSubmit(user)" class="form-horizontal">
+	<form (submit)="onSubmit(user)" class="form-horizontal ">
 		
 		<div class="form-group">
 			<label class="col-sm-2 control-label">User Name:</label>
@@ -27,10 +30,6 @@
 	
 	</form>
 	
-	<!--<div [hidden]="!loginService.checkLogin()">-->
-		<!--<h3>Logged In Successfully!</h3>-->
-		<!--<h2>Welcome back, {{currentUserName}}</h2>-->
-	<!--</div>-->
 </div>
 
 <router-outlet></router-outlet>

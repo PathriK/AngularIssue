@@ -6,6 +6,7 @@ import {HomeComponent} from "./home";
 import {UserModule} from "../user/UserModule";
 import {NavBarModule} from "../NavBar/navBar.module";
 import {SmartAdminModule} from "../shared/smartadmin.module";
+import {UserService} from "../user/UserService";
 
 @NgModule({
 
@@ -17,7 +18,9 @@ import {SmartAdminModule} from "../shared/smartadmin.module";
 
     exports:[HomeComponent],
 
-    declarations: [HomeComponent]
+    declarations: [HomeComponent],
+
+    providers: [UserService]
 
 })
 export class HomeModule {

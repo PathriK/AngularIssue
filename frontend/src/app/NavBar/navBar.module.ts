@@ -5,19 +5,21 @@
 import {NgModule} from "@angular/core";
 import {NavigationBarComponent} from "./NavigationBar";
 import {UserModule} from "../user/UserModule";
-import {HomeComponent} from "../Home/home";
-import {AppModule} from "../app.module";
 import {SmartAdminModule} from "../shared/smartadmin.module";
+import {UserService} from "../user/UserService";
 
 @NgModule({
 
     imports:[
         SmartAdminModule,
-        UserModule,
+        UserModule
     ],
 
     declarations: [NavigationBarComponent],
-    exports: [NavigationBarComponent]
+
+    exports: [NavigationBarComponent],
+
+    providers: [UserService]
 })
 export class NavBarModule {
 
