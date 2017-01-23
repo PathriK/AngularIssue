@@ -1,6 +1,7 @@
 import {Component} from "@angular/core";
 import {LoginService} from "./login.service";
 import {User} from "../../Model/User";
+import {UserService} from "../UserService";
 
 @Component({
     selector: 'login',
@@ -11,7 +12,7 @@ export class LoginComponent {
 
     user: User = new User();
 
-    constructor(public loginService: LoginService) {
+    constructor(public loginService: LoginService, private userService: UserService) {
 
     }
 

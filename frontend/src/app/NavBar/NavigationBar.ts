@@ -1,6 +1,7 @@
 import {Component, Input} from "@angular/core";
 import {LoginService} from "../user/Login/login.service";
 import {RegisterService} from "../user/register/registerService";
+import {UserService} from "../user/UserService";
 
 @Component({
     selector:'nav-bar',
@@ -9,12 +10,16 @@ import {RegisterService} from "../user/register/registerService";
 
 export class NavigationBarComponent{
 
-    constructor (private loginService:LoginService, registerService:RegisterService) { }
+    constructor (private userService: UserService) { }
 
-    private loginUser:boolean;
 
-    showLogin() {
-        this.loginUser = true;
-        console.log("show login pressed")
+    showLogin(){
+        this.userService.registered = true;
     }
+
+    showRegister(){
+        this.userService.registered = false;
+    }
+
+
 }
